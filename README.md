@@ -1,2 +1,2 @@
 # OlaMundo
- Primeiro repositório curso git github
+ Primeiro repositório curso Git GitHub
